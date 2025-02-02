@@ -1,41 +1,29 @@
-# Mini-moulinette
+# Mega-warmachine (inspired by)
 
-![mini-moulinette](mini-moulinette.jpg)
+![mega-warmachine](mega-warmachine.jpg)
 
-Mini-moulinette is a test runner for 42 assignments, providing automated tests for whole assignment with one command. The goal is to make thorough checking before submitting the assignments, with ease.
+Mega-warmachine is a test runner for 42 assignments, providing automated tests for whole assignment with one command. The goal is to make thorough checking before submitting the assignments, with ease.
 
 
 ## Introduction
 
-This is now day 11 of piscine. I have wasted so many hours getting evaluated, doing evaluation, waiting for evaluation, only to come back redoing it again because I kept making silly mistakes. I wish I can check my code thoroughly before submitting, but that too, will take a lot of my time. This is why I build this so I can stop wasting my time and many others, and shut moulinette up with just a single submission.
-
+When mega does not suffice, let mega be your soothing ice.
 
 ## How Does It Work?
 
 ![screenshot](screenshot.jpg)
 
-- Mini moulinette runs through all the tests cases automatically, and checks if the test conditions are met.
+- Mega runs through all the tests cases automatically, and checks if the test conditions are met.
 - It will then output the result.
 - The scores are based on 42's practice, where if easier/earlier questions are incorrect, the rest won't count.
 
 
-# Updating
-
-Mini moulinette is updated daily, to update:
-
-```bash
-cd ~/mini-moulinette
-```
-
-```bash
-git pull
-```
 
 
 ## Get Started
 
 > ***Warning***
-> Mini moulinette is not 100% accurate, the tests may not cover every edge cases like moulinette. Use with caution.
+> Mega warmachine is not 100% accurate, the tests may not cover every edge cases like warmachine. Use with caution.
 
 1. Go to your root `~` directory.
 
@@ -47,7 +35,7 @@ cd ~
 2. Clone the git there.
 
 ```bash
-git clone https://github.com/khairulhaaziq/mini-moulinette.git
+git clone https://github.com/fredch16/mega-piscine-tester.git
 ```
 
 
@@ -56,13 +44,13 @@ git clone https://github.com/khairulhaaziq/mini-moulinette.git
 - zsh:
 
 ```zsh
-echo "alias mini='~/mini-moulinette/mini-moul.sh'" >> ~/.zshrc && source ~/.zshrc
+echo "alias mega='~/mega-warmachine/mega-war.sh'" >> ~/.zshrc && source ~/.zshrc
 ```
 
 - bash:
 
 ```bash
-echo "alias mini='~/mini-moulinette/mini-moul.sh'" >> ~/.bashrc && source ~/.bashrc
+echo "alias mega='~/mega-warmachine/mega-war.sh'" >> ~/.bashrc && source ~/.bashrc
 ```
 
 
@@ -73,16 +61,16 @@ cd C02
 ```
 
 
-5. Run using command `mini` with assignment number as argument. e.g: C02.
+5. Run using command `mega` with assignment number as argument. e.g: C02.
 
 ```bash
-mini C02
+mega C02
 ```
 
 e.g: C03
 
 ```bash
-mini C03
+mega C03
 ```
 
 6. You can now run it for every assignment directory, where tests are provided. Have fun!
@@ -102,7 +90,7 @@ The error/success messages should be explicit enough. However sometimes you will
 - You need to find the test cases, go here:
 
 ```bash
-cd ~/mini-moulinette/mini-moul/tests
+cd ~/mega-warmachine/mega-war/tests
 ```
 
 The current directory contains all the test cases. Every test is in the file that is the same name as the function/program it is testing, e.g. C05/ex00/ft_iterative_factorial.c will contain test for C05 > ex00 > ft_iterative_factorial.c.
@@ -167,14 +155,14 @@ See the above, you can add more tests here. You need to manage your customizatio
 
 ## Contributing
 
-We welcome contributions to mini-moulinette! Here are a few ways you can help out:
+We welcome contributions to mega-warmachine! Here are a few ways you can help out:
 
 - Testing: We rely on community feedback to ensure our tests are comprehensive and accurate. If you notice an error in one of our tests or have an idea for a new test case, please let us know! You can contact us via email at [email address] or on Discord at [Discord username]. We would greatly appreciate any feedback or suggestions you have.
 - Code: If you're interested in contributing to the codebase itself, we'd be happy to review any pull requests you submit. We have a few guidelines to ensure that our code is readable and maintainable, so please take a look at our contributing guidelines before you get started.
-- Features: Do you have an idea for a new feature that you think would be useful for mini-moulinette? We'd love to hear it! Please create an issue on our GitHub repository to start a discussion.
-- Feedback: If you've used mini-moulinette and have some feedback or suggestions for improvement, please let us know! Your input is valuable to us, and we're always looking for ways to make our test runner better.
+- Features: Do you have an idea for a new feature that you think would be useful for mega-warmachine? We'd love to hear it! Please create an issue on our GitHub repository to start a discussion.
+- Feedback: If you've used mega-warmachine and have some feedback or suggestions for improvement, please let us know! Your input is valuable to us, and we're always looking for ways to make our test runner better.
 
-When contributing to mini-moulinette, please be sure to follow our code of conduct and our guidelines for submitting contributions. Thank you for your interest in our project, and we look forward to working with you!
+When contributing to mega-warmachine, please be sure to follow our code of conduct and our guidelines for submitting contributions. Thank you for your interest in our project, and we look forward to working with you!
 
 
 ## Authors

@@ -1,4 +1,4 @@
-# Mega-warmachine (inspired by)
+# Mega-warmachine
 
 ![mega-warmachine](mega-warmachine.png)
 

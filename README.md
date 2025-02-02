@@ -167,14 +167,14 @@ When contributing to mega-warmachine, please be sure to follow our code of condu
 
 ## Authors
 
-[Khairul Haaziq](https://github.com/khairulhaaziq)
+[Fred Charbonnier](https://github.com/fredch16)
 
 
 ## Contributors
 
-[chatGPT](ai.com)
+[ME! (also minimoulinette and chatgpt](ai.com)
 
 
 ## License
 
-MIT. Copyright 2023 [Khairul Haaziq](https://github.com/khairulhaaziq).
+MIT. Copyright 2025 [Fred Charbonnier](https://github.com/frech16).

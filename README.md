@@ -7,7 +7,7 @@ Mega-warmachine is a test runner for 42 assignments, providing automated tests f
 
 ## Introduction
 
-When mega does not suffice, let mega be your soothing ice.
+When mini does not suffice, let mega be your soothing ice.
 
 ## How Does It Work?
 

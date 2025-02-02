@@ -35,7 +35,7 @@ cd ~
 2. Clone the git there.
 
 ```bash
-git clone https://github.com/fredch16/mega-piscine-tester-.git
+git clone https://github.com/fredch16/mega-piscine-tester-.git mega-warmachine
 ```
 
 

@@ -23,7 +23,7 @@ When mini does not suffice, let mega be your soothing ice.
 ## Get Started
 
 > ***Warning***
-> Mega warmachine is not 100% accurate, the tests may not cover every edge cases like warmachine. Use with caution.
+> Mega warmachine is not 100% accurate, the tests may not cover every edge cases like moulinette. Use with caution.
 
 1. Go to your root `~` directory.
 

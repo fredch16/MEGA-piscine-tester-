@@ -1,6 +1,6 @@
 # Mega-warmachine (inspired by)
 
-![mega-warmachine](mega-warmachine.jpg)
+![mega-warmachine](mega-warmachine.png)
 
 Mega-warmachine is a test runner for 42 assignments, providing automated tests for whole assignment with one command. The goal is to make thorough checking before submitting the assignments, with ease.
 
@@ -35,7 +35,7 @@ cd ~
 2. Clone the git there.
 
 ```bash
-git clone https://github.com/fredch16/mega-piscine-tester.git
+git clone https://github.com/fredch16/mega-piscine-tester-.git
 ```
 
 
